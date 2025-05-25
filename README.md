@@ -1,7 +1,32 @@
 # Sea_Jewels
+## Enlace a la aplicación
 
-#Enlace al sitio web en producción (ej: "Aplicación desplegada: https://mi
-proyecto.netlify.app"). 
-#Integrantes del equipo (nombres completos y grupo). 
-#Links a los manuales (usuario y técnico). 
-#Tablero de trabajo Notion:  https://nice-country-402.notion.site/1fed6ae09ac18077989ff96694472fd7?v=1fed6ae09ac18106bbce000c1ce7a720
+Aplicación desplegada: [https://miproyecto.netlify.app](https://miproyecto.netlify.app)
+
+---
+
+## Integrantes del equipo
+
+- Nombre completo 1 (Grupo X)
+- Nombre completo 2 (Grupo X)
+- Nombre completo 3 (Grupo X)
+- ...
+
+---
+
+## Manuales
+
+- [Manual de Usuario](URL_DEL_MANUAL_USUARIO)
+- [Manual Técnico](URL_DEL_MANUAL_TECNICO)
+
+---
+
+## Tablero de trabajo
+
+- [Trello/Notion](URL_DEL_TABLERO)
+
+---
+
+## Licencia
+
+Este proyecto está licenciado bajo una Licencia [Creative Commons](https://creativecommons.org/licenses/).
